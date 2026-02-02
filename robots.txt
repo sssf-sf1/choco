@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /bouquets.html
+Disallow: /cart.html
+Disallow: /kids.html
+Disallow: /men.html
+Disallow: /march.html
+Disallow: /february.html
+Allow: /index.html
+Allow: /set.html
+Allow: /*.css$
+Allow: /*.js$
+Sitemap: https://example.com/sitemap.xml
